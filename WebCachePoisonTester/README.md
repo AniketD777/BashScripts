@@ -24,8 +24,8 @@ Tested on Linux and macOS.
 ## 🚀 Usage
 
 ```bash
-chmod +x cache_poison_check.sh
-./cache_poison_check.sh https://example.com
+chmod +x WCPT.sh
+./WCPT.sh https://example.com
 
 ## Test Lab:
 Link: https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-header
